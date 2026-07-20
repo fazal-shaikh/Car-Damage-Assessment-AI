@@ -1,0 +1,10 @@
+torch
+torchvision
+fastapi
+uvicorn
+streamlit
+optuna
+scikit-learn
+python-multipart
+Pillow
+numpy
